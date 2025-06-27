@@ -75,3 +75,6 @@ See the full Smart RAG Assistant in action — from document upload, chunking, v
 	•	Multi-user login & access control
 
 
+Oracle Instant Client Downloads for Linux x86-64 (64-bit): https://www.oracle.com/in/database/technologies/instant-client/linux-x86-64-downloads.html
+
+

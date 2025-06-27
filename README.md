@@ -2,6 +2,13 @@
 
 A Retrieval-Augmented Generation (RAG) assistant that lets you chat with your documents using OpenAI + Oracle Database 23ai. Supports multi-modal document ingestion, secure credential setup, vector-based chunk retrieval, and a fully mobile-responsive Streamlit UI.
 
+🎬 Live Demo
+
+📺 Watch the full walkthrough:
+👉 https://youtu.be/FRPM9zABVVg
+
+See the full Smart RAG Assistant in action — from document upload, chunking, vector search, to GPT-powered chat with citations.
+
 🔍 Features
 	•	📄 Ingest multi-modal files: PDF, DOCX, PPTX, TXT, Excel, Images (OCR), Markdown, HTML
 	•	🧠 Chunk & embed with SentenceTransformers and OpenAI (or offline if needed)

@@ -21,7 +21,7 @@ This screencast demonstrates:
 - 📱 Mobile-responsive interface
 - ⚡ Oracle 23ai vector search in action
 
-![MultiModal RAG Architecture](https://via.placeholder.com/800x400/667eea/ffffff?text=MultiModal+RAG+Assistant+Architecture)
+![MultiModal RAG Architecture](https://github.com/ancur4u/MultiModal_RAG_Oracle23ai/blob/main/rag-preprocessing-customized-mllms.png)
 
 ## 🌟 Features
 
